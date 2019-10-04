@@ -18,17 +18,27 @@ The collection of this data set could not have come by myself. I have my squad m
 
 # What's the point?
 
-I have a collection of things. Now I want to extract insights from it. How do I do it programmatically?
+I have data that I need in another format to mess with
+-----------------------------------------------------------------
 
 ## What I've tried.
 
-#### I have entered information by hand
+### I have entered information by hand
 
 I have entered the information by numpad for one data entering session.
 
 I found that the OCR Tesseract Library worked less than extraordinary, not what it's name suggests. It read some data from the picture but not all. Something I definitely wished I had known the outcome of a long time before.
 
-#### I have goneback to testing pytesseract and using PIL
+##### The learning opportunity that was not wasted on me here was after that, I did what I knew to the data set and I found a bad row of data. Yay me for that.
 
-It's an okay gimick
+### I have goneback to testing pytesseract and using PIL
 
+Right now it's a gimmick sure but I realized as I was writing the code to pinpoint where the letters were or number was in the picture, I was(read: could) also building a cobbled together picture-observation-organizer. I could use that data to train my own machine army to read those numbers and letters.
+
+##### This is much farther down the line
+
+Right now it's in a complete ruidimentary phase of this.
+
+Which is the whole point right?
+
+Check out the repo. Take a look around. Tell me what you think.
